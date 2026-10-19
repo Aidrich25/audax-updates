@@ -1,2 +1,7 @@
-# audax-updates
-Audax Desktop installers and update release notes. No application source or user data.
+# Audax 更新发布
+
+本仓库用于发布 Audax Desktop 的 Windows 安装包和版本更新说明。
+
+正式版本请在 Releases 中下载，已安装的正式版也可以在软件内检查更新。未正式发布的验收草稿不会向客户端推送。
+
+本仓库不存放独立源码文件、账号配置、密钥或用户业务数据。
